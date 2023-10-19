@@ -1,0 +1,15 @@
+
+bibentry(bibtype = "Misc",
+         key = "waltitilley",
+         title = "zurichwastecollection: Zurich (Switzerland) Waste Collection Data",
+         author = c(person(given = "Dominic",
+                           family = "Wälti"),
+                    person(given = "Elizabeth",
+                           family = "Tilley"),
+                    person(given = "Jakub",
+                           family = "Tkaczuk"),
+                    person(given = "Lars",
+                           family = "Schöbitz")),
+         year = "2023",
+         abstract = "Waste collection data for bulky waste collected in the city of Zurich, Switzerland. The data was collected as part of an MSc thesis project in 2023.",
+         version = "0.0.0.9000")

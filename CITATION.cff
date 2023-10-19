@@ -1,0 +1,36 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "zurichwastecollection" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'zurichwastecollection: Zurich (Switzerland) Waste Collection Data'
+version: 0.0.0.9000
+abstract: Waste collection data for bulky waste collected in the city of Zurich, Switzerland.
+  The data was collected as part of an MSc thesis project in 2023.
+authors:
+- family-names: Wälti
+  given-names: Dominic
+  email: dominicwaelti@gmail.com
+  orcid: https://orcid.org/0009-0003-6515-6778
+- family-names: Tilley
+  given-names: Elizabeth
+  email: tilleye@ethz.ch
+  orcid: https://orcid.org/0000-0002-2095-9724
+- family-names: Tkaczuk
+  given-names: Jakub
+  email: jtkaczuk@ethz.ch
+  orcid: https://orcid.org/0000-0001-7997-9423
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
+date-released: '2023-10-19'
+contact:
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015

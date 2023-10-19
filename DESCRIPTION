@@ -2,14 +2,14 @@ Package: zurichwastecollection
 Title: Zurich (Switzerland) Waste Collection Data
 Version: 0.0.0.9000
 Authors@R: c(
-    person("Lars", "Schöbitz", , "lschoebitz@ethz.ch", role = "cre",
-           comment = c(ORCID = "0000-0003-2196-5015")),
     person("Dominic", "Wälti", , "dominicwaelti@gmail.com", role = "aut",
            comment = c(ORCID = "0009-0003-6515-6778")),
-    person("Elizabeth", "Tilley", , "tilleye@ethz.ch", role = "ctb",
+    person("Elizabeth", "Tilley", , "tilleye@ethz.ch", role = "aut",
            comment = c(ORCID = "0000-0002-2095-9724")),
-    person("Jakub", "Tkaczuk", , "jtkaczuk@ethz.ch", role = "ctb",
-           comment = c(ORCID = "0000-0001-7997-9423"))
+    person("Jakub", "Tkaczuk", , "jtkaczuk@ethz.ch", role = "aut",
+           comment = c(ORCID = "0000-0001-7997-9423")),
+    person("Lars", "Schöbitz", , "lschoebitz@ethz.ch", role = "cre",
+           comment = c(ORCID = "0000-0003-2196-5015"))
   )
 Description: Waste collection data for bulky waste collected in the city of
     Zurich, Switzerland. The data was collected as part of an MSc thesis project

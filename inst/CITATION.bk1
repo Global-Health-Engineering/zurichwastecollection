@@ -1,0 +1,11 @@
+
+bibentry(bibtype = "Misc",
+         key = "schobitzwalti",
+         title = "zurichwastecollection: Zurich (Switzerland) Waste Collection Data",
+         author = c(person(given = "Lars",
+                           family = "Schöbitz"),
+                    person(given = "Dominic",
+                           family = "Wälti")),
+         year = "2023",
+         abstract = "Waste collection data for bulky waste collected in the city of Zurich, Switzerland. The data was collected as part of an MSc thesis project in 2023.",
+         version = "0.0.0.9000")
