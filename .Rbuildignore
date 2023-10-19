@@ -1,3 +1,5 @@
 ^zurichwastecollection\.Rproj$
 ^\.Rproj\.user$
 ^data-raw$
+^LICENSE\.md$
+^README\.Rmd$
