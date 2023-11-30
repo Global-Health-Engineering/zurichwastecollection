@@ -1,0 +1,461 @@
+collection_site,activity,time
+1,Parking,12
+1,Opening trunk,12
+1,Collecting & Loading of small trash,58
+1,Slit-Container: Emptying,124
+1,Slit-Container: Sack Replacement,24
+1,Recycling,24
+1,Cleaning ground,0
+1,Cleaing oil station,0
+1,Mobbing ground with broom,0
+1,Closing  trunk,4
+2,Parking,5
+2,Opening trunk,14
+2,Collecting & Loading of small trash,65
+2,Slit-Container: Emptying,68
+2,Slit-Container: Sack Replacement,70
+2,Recycling,0
+2,Cleaning ground,0
+2,Cleaing oil station,0
+2,Mobbing ground with broom,0
+2,Closing  trunk,3
+3,Parking,10
+3,Opening trunk,13
+3,Collecting & Loading of small trash,588
+3,Slit-Container: Emptying,83
+3,Slit-Container: Sack Replacement,30
+3,Recycling,0
+3,Cleaning ground,55
+3,Cleaing oil station,0
+3,Mobbing ground with broom,119
+3,Closing  trunk,5
+4,Parking,21
+4,Opening trunk,10
+4,Collecting & Loading of small trash,101
+4,Slit-Container: Emptying,63
+4,Slit-Container: Sack Replacement,33
+4,Recycling,0
+4,Cleaning ground,0
+4,Cleaing oil station,0
+4,Mobbing ground with broom,0
+4,Closing  trunk,4
+5,Parking,10
+5,Opening trunk,11
+5,Collecting & Loading of small trash,56
+5,Slit-Container: Emptying,30
+5,Slit-Container: Sack Replacement,17
+5,Recycling,0
+5,Cleaning ground,0
+5,Cleaing oil station,0
+5,Mobbing ground with broom,0
+5,Closing  trunk,8
+6,Parking,36
+6,Opening trunk,9
+6,Collecting & Loading of small trash,241
+6,Slit-Container: Emptying,77
+6,Slit-Container: Sack Replacement,53
+6,Recycling,43
+6,Cleaning ground,34
+6,Cleaing oil station,0
+6,Mobbing ground with broom,19
+6,Closing  trunk,7
+7,Parking,46
+7,Opening trunk,17
+7,Collecting & Loading of small trash,0
+7,Slit-Container: Emptying,75
+7,Slit-Container: Sack Replacement,20
+7,Recycling,0
+7,Cleaning ground,0
+7,Cleaing oil station,0
+7,Mobbing ground with broom,0
+7,Closing  trunk,5
+8,Parking,20
+8,Opening trunk,15
+8,Collecting & Loading of small trash,0
+8,Slit-Container: Emptying,42
+8,Slit-Container: Sack Replacement,15
+8,Recycling,0
+8,Cleaning ground,0
+8,Cleaing oil station,0
+8,Mobbing ground with broom,0
+8,Closing  trunk,6
+9,Parking,12
+9,Opening trunk,14
+9,Collecting & Loading of small trash,0
+9,Slit-Container: Emptying,56
+9,Slit-Container: Sack Replacement,32
+9,Recycling,0
+9,Cleaning ground,0
+9,Cleaing oil station,0
+9,Mobbing ground with broom,0
+9,Closing  trunk,5
+10,Parking,36
+10,Opening trunk,10
+10,Collecting & Loading of small trash,98
+10,Slit-Container: Emptying,46
+10,Slit-Container: Sack Replacement,21
+10,Recycling,0
+10,Cleaning ground,0
+10,Cleaing oil station,0
+10,Mobbing ground with broom,46
+10,Closing  trunk,4
+11,Parking,17
+11,Opening trunk,13
+11,Collecting & Loading of small trash,603
+11,Slit-Container: Emptying,81
+11,Slit-Container: Sack Replacement,33
+11,Recycling,0
+11,Cleaning ground,0
+11,Cleaing oil station,0
+11,Mobbing ground with broom,80
+11,Closing  trunk,7
+12,Parking,14
+12,Opening trunk,16
+12,Collecting & Loading of small trash,0
+12,Slit-Container: Emptying,63
+12,Slit-Container: Sack Replacement,22
+12,Recycling,0
+12,Cleaning ground,41
+12,Cleaing oil station,0
+12,Mobbing ground with broom,0
+12,Closing  trunk,3
+13,Parking,20
+13,Opening trunk,9
+13,Collecting & Loading of small trash,40
+13,Slit-Container: Emptying,27
+13,Slit-Container: Sack Replacement,17
+13,Recycling,0
+13,Cleaning ground,0
+13,Cleaing oil station,0
+13,Mobbing ground with broom,0
+13,Closing  trunk,4
+14,Parking,28
+14,Opening trunk,17
+14,Collecting & Loading of small trash,0
+14,Slit-Container: Emptying,47
+14,Slit-Container: Sack Replacement,15
+14,Recycling,0
+14,Cleaning ground,0
+14,Cleaing oil station,0
+14,Mobbing ground with broom,0
+14,Closing  trunk,4
+15,Parking,35
+15,Opening trunk,13
+15,Collecting & Loading of small trash,42
+15,Slit-Container: Emptying,69
+15,Slit-Container: Sack Replacement,22
+15,Recycling,98
+15,Cleaning ground,28
+15,Cleaing oil station,0
+15,Mobbing ground with broom,44
+15,Closing  trunk,6
+16,Parking,7
+16,Opening trunk,14
+16,Collecting & Loading of small trash,22
+16,Slit-Container: Emptying,41
+16,Slit-Container: Sack Replacement,30
+16,Recycling,0
+16,Cleaning ground,0
+16,Cleaing oil station,0
+16,Mobbing ground with broom,0
+16,Closing  trunk,5
+17,Parking,4
+17,Opening trunk,11
+17,Collecting & Loading of small trash,49
+17,Slit-Container: Emptying,44
+17,Slit-Container: Sack Replacement,17
+17,Recycling,92
+17,Cleaning ground,0
+17,Cleaing oil station,0
+17,Mobbing ground with broom,0
+17,Closing  trunk,7
+18,Parking,8
+18,Opening trunk,15
+18,Collecting & Loading of small trash,49
+18,Slit-Container: Emptying,23
+18,Slit-Container: Sack Replacement,17
+18,Recycling,0
+18,Cleaning ground,0
+18,Cleaing oil station,0
+18,Mobbing ground with broom,0
+18,Closing  trunk,4
+19,Parking,6
+19,Opening trunk,16
+19,Collecting & Loading of small trash,279
+19,Slit-Container: Emptying,85
+19,Slit-Container: Sack Replacement,60
+19,Recycling,0
+19,Cleaning ground,15
+19,Cleaing oil station,0
+19,Mobbing ground with broom,0
+19,Closing  trunk,5
+20,Parking,46
+20,Opening trunk,10
+20,Collecting & Loading of small trash,12
+20,Slit-Container: Emptying,36
+20,Slit-Container: Sack Replacement,12
+20,Recycling,0
+20,Cleaning ground,0
+20,Cleaing oil station,0
+20,Mobbing ground with broom,0
+20,Closing  trunk,3
+21,Parking,12
+21,Opening trunk,14
+21,Collecting & Loading of small trash,0
+21,Slit-Container: Emptying,40
+21,Slit-Container: Sack Replacement,22
+21,Recycling,0
+21,Cleaning ground,0
+21,Cleaing oil station,0
+21,Mobbing ground with broom,0
+21,Closing  trunk,5
+22,Parking,21
+22,Opening trunk,9
+22,Collecting & Loading of small trash,22
+22,Slit-Container: Emptying,40
+22,Slit-Container: Sack Replacement,14
+22,Recycling,0
+22,Cleaning ground,0
+22,Cleaing oil station,0
+22,Mobbing ground with broom,0
+22,Closing  trunk,7
+23,Parking,9
+23,Opening trunk,13
+23,Collecting & Loading of small trash,68
+23,Slit-Container: Emptying,59
+23,Slit-Container: Sack Replacement,22
+23,Recycling,0
+23,Cleaning ground,0
+23,Cleaing oil station,0
+23,Mobbing ground with broom,0
+23,Closing  trunk,4
+24,Parking,16
+24,Opening trunk,11
+24,Collecting & Loading of small trash,77
+24,Slit-Container: Emptying,67
+24,Slit-Container: Sack Replacement,23
+24,Recycling,15
+24,Cleaning ground,0
+24,Cleaing oil station,0
+24,Mobbing ground with broom,0
+24,Closing  trunk,4
+25,Parking,18
+25,Opening trunk,10
+25,Collecting & Loading of small trash,174
+25,Slit-Container: Emptying,64
+25,Slit-Container: Sack Replacement,70
+25,Recycling,0
+25,Cleaning ground,0
+25,Cleaing oil station,0
+25,Mobbing ground with broom,0
+25,Closing  trunk,6
+26,Parking,28
+26,Opening trunk,15
+26,Collecting & Loading of small trash,175
+26,Slit-Container: Emptying,64
+26,Slit-Container: Sack Replacement,30
+26,Recycling,15
+26,Cleaning ground,0
+26,Cleaing oil station,0
+26,Mobbing ground with broom,0
+26,Closing  trunk,4
+27,Parking,43
+27,Opening trunk,16
+27,Collecting & Loading of small trash,230
+27,Slit-Container: Emptying,105
+27,Slit-Container: Sack Replacement,36
+27,Recycling,6
+27,Cleaning ground,40
+27,Cleaing oil station,0
+27,Mobbing ground with broom,90
+27,Closing  trunk,5
+28,Parking,15
+28,Opening trunk,9
+28,Collecting & Loading of small trash,72
+28,Slit-Container: Emptying,45
+28,Slit-Container: Sack Replacement,16
+28,Recycling,0
+28,Cleaning ground,35
+28,Cleaing oil station,0
+28,Mobbing ground with broom,0
+28,Closing  trunk,7
+29,Parking,10
+29,Opening trunk,10
+29,Collecting & Loading of small trash,122
+29,Slit-Container: Emptying,36
+29,Slit-Container: Sack Replacement,26
+29,Recycling,0
+29,Cleaning ground,0
+29,Cleaing oil station,0
+29,Mobbing ground with broom,0
+29,Closing  trunk,3
+30,Parking,14
+30,Opening trunk,9
+30,Collecting & Loading of small trash,143
+30,Slit-Container: Emptying,20
+30,Slit-Container: Sack Replacement,16
+30,Recycling,0
+30,Cleaning ground,20
+30,Cleaing oil station,0
+30,Mobbing ground with broom,0
+30,Closing  trunk,4
+31,Parking,19
+31,Opening trunk,16
+31,Collecting & Loading of small trash,274
+31,Slit-Container: Emptying,10
+31,Slit-Container: Sack Replacement,15
+31,Recycling,0
+31,Cleaning ground,0
+31,Cleaing oil station,0
+31,Mobbing ground with broom,0
+31,Closing  trunk,6
+32,Parking,15
+32,Opening trunk,14
+32,Collecting & Loading of small trash,39
+32,Slit-Container: Emptying,48
+32,Slit-Container: Sack Replacement,38
+32,Recycling,0
+32,Cleaning ground,0
+32,Cleaing oil station,0
+32,Mobbing ground with broom,89
+32,Closing  trunk,5
+33,Parking,45
+33,Opening trunk,12
+33,Collecting & Loading of small trash,202
+33,Slit-Container: Emptying,41
+33,Slit-Container: Sack Replacement,64
+33,Recycling,0
+33,Cleaning ground,0
+33,Cleaing oil station,0
+33,Mobbing ground with broom,20
+33,Closing  trunk,5
+34,Parking,12
+34,Opening trunk,13
+34,Collecting & Loading of small trash,207
+34,Slit-Container: Emptying,76
+34,Slit-Container: Sack Replacement,27
+34,Recycling,10
+34,Cleaning ground,0
+34,Cleaing oil station,0
+34,Mobbing ground with broom,0
+34,Closing  trunk,4
+35,Parking,23
+35,Opening trunk,12
+35,Collecting & Loading of small trash,98
+35,Slit-Container: Emptying,25
+35,Slit-Container: Sack Replacement,27
+35,Recycling,0
+35,Cleaning ground,0
+35,Cleaing oil station,0
+35,Mobbing ground with broom,0
+35,Closing  trunk,3
+36,Parking,4
+36,Opening trunk,15
+36,Collecting & Loading of small trash,60
+36,Slit-Container: Emptying,38
+36,Slit-Container: Sack Replacement,29
+36,Recycling,15
+36,Cleaning ground,0
+36,Cleaing oil station,0
+36,Mobbing ground with broom,0
+36,Closing  trunk,4
+37,Parking,14
+37,Opening trunk,11
+37,Collecting & Loading of small trash,21
+37,Slit-Container: Emptying,47
+37,Slit-Container: Sack Replacement,21
+37,Recycling,0
+37,Cleaning ground,0
+37,Cleaing oil station,0
+37,Mobbing ground with broom,0
+37,Closing  trunk,5
+38,Parking,NA
+38,Opening trunk,NA
+38,Collecting & Loading of small trash,NA
+38,Slit-Container: Emptying,NA
+38,Slit-Container: Sack Replacement,NA
+38,Recycling,NA
+38,Cleaning ground,NA
+38,Cleaing oil station,NA
+38,Mobbing ground with broom,NA
+38,Closing  trunk,NA
+39,Parking,NA
+39,Opening trunk,NA
+39,Collecting & Loading of small trash,NA
+39,Slit-Container: Emptying,NA
+39,Slit-Container: Sack Replacement,NA
+39,Recycling,NA
+39,Cleaning ground,NA
+39,Cleaing oil station,NA
+39,Mobbing ground with broom,NA
+39,Closing  trunk,NA
+40,Parking,NA
+40,Opening trunk,NA
+40,Collecting & Loading of small trash,NA
+40,Slit-Container: Emptying,NA
+40,Slit-Container: Sack Replacement,NA
+40,Recycling,NA
+40,Cleaning ground,NA
+40,Cleaing oil station,NA
+40,Mobbing ground with broom,NA
+40,Closing  trunk,NA
+41,Parking,NA
+41,Opening trunk,NA
+41,Collecting & Loading of small trash,NA
+41,Slit-Container: Emptying,NA
+41,Slit-Container: Sack Replacement,NA
+41,Recycling,NA
+41,Cleaning ground,NA
+41,Cleaing oil station,NA
+41,Mobbing ground with broom,NA
+41,Closing  trunk,NA
+42,Parking,NA
+42,Opening trunk,NA
+42,Collecting & Loading of small trash,NA
+42,Slit-Container: Emptying,NA
+42,Slit-Container: Sack Replacement,NA
+42,Recycling,NA
+42,Cleaning ground,NA
+42,Cleaing oil station,NA
+42,Mobbing ground with broom,NA
+42,Closing  trunk,NA
+43,Parking,NA
+43,Opening trunk,NA
+43,Collecting & Loading of small trash,NA
+43,Slit-Container: Emptying,NA
+43,Slit-Container: Sack Replacement,NA
+43,Recycling,NA
+43,Cleaning ground,NA
+43,Cleaing oil station,NA
+43,Mobbing ground with broom,NA
+43,Closing  trunk,NA
+44,Parking,NA
+44,Opening trunk,NA
+44,Collecting & Loading of small trash,NA
+44,Slit-Container: Emptying,NA
+44,Slit-Container: Sack Replacement,NA
+44,Recycling,NA
+44,Cleaning ground,NA
+44,Cleaing oil station,NA
+44,Mobbing ground with broom,NA
+44,Closing  trunk,NA
+45,Parking,NA
+45,Opening trunk,NA
+45,Collecting & Loading of small trash,NA
+45,Slit-Container: Emptying,NA
+45,Slit-Container: Sack Replacement,NA
+45,Recycling,NA
+45,Cleaning ground,NA
+45,Cleaing oil station,NA
+45,Mobbing ground with broom,NA
+45,Closing  trunk,NA
+46,Parking,NA
+46,Opening trunk,NA
+46,Collecting & Loading of small trash,NA
+46,Slit-Container: Emptying,NA
+46,Slit-Container: Sack Replacement,NA
+46,Recycling,NA
+46,Cleaning ground,NA
+46,Cleaing oil station,NA
+46,Mobbing ground with broom,NA
+46,Closing  trunk,NA

@@ -32,9 +32,17 @@ time_motion <- read_excel("data-raw/Time-Motion Study.xlsx", sheet = 1, skip = 1
 
 weights <- bind_rows(wk1, wk2) |>
   janitor::clean_names() |>
-  pivot_longer(cols = measured_weight_1_kg:measured_weight_3_kg)
+  pivot_longer(cols = measured_weight_1_kg:measured_weight_3_kg,
+               names_to = "measurement",
+               values_to = "weight")
 
 
 # export data -------------------------------------------------------------
 
 usethis::use_data(weights, time_motion, overwrite = TRUE)
+
+write_csv(weights, here::here("inst", "extdata", "weights.csv"))
+write_csv(time_motion, here::here("inst", "extdata", "time_motion.csv"))
+
+#Çopenxlsx::write.xlsx(locations, here::here("inst", "extdata", "locations.xlsx"))
+#Çopenxlsx::write.xlsx(plastic_types, here::here("inst", "extdata", "plastic_types.xlsx"))
